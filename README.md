@@ -4,7 +4,7 @@
 
 制作者：[**Hansimov**](https://github.com/Hansimov)\*\*\*\*
 
-OCR 支持：WPS PDF
+OCR 支持：WPS PDF, Quicker 截图OCR
 
 感谢：[**九卿**](https://github.com/taseikyo)
 
